@@ -18,6 +18,7 @@ We categorize PFL algorithms into three types:
 ### Survey & Benchmark
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
+| PFLlib: Personalized Federated Learning Algorithm Library | PFLlib | arXiv | 2023 | [[PDF](https://arxiv.org/pdf/2312.04992)] [[CODE](https://github.com/TsingZ0/PFLlib)] |
 | Towards Personalized Federated Learning | N/A | TNNLS | 2022 | [[PDF](https://arxiv.org/pdf/2103.00710)] |
 | pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning | pFL-Bench | NIPS | 2022 | [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/3cc03e19fed71a2b9347d83921ca2e7d-Paper-Datasets_and_Benchmarks.pdf)] [[CODE](https://github.com/alibaba/FederatedScope/tree/master/benchmark/pFL-Bench)] |
 | Motley: Benchmarking heterogeneity and personalization in federated learning | Motley | arXiv | 2022 | [[PDF](https://arxiv.org/pdf/2206.09262)] [[CODE](https://github.com/google-research/federated/tree/master/personalization_benchmark)] |
@@ -32,6 +33,7 @@ We categorize PFL algorithms into three types:
 | On bridging generic and personalized federated learning for image classification | FedRoD | ICLR | 2022 | [[PDF](https://arxiv.org/pdf/2107.00778)] [[CODE](https://github.com/hongyouc/Fed-RoD)] |
 | Fedbabu: Towards enhanced representation for federated image classification | Fedbabu | ICLR | 2022 | [[PDF](https://arxiv.org/pdf/2106.06042)] [[CODE](https://github.com/jhoon-oh/FedBABU)] |
 | Exploiting shared representations for personalized federated learning | FedRep | ICML | 2021 | [[PDF](https://proceedings.mlr.press/v139/collins21a/collins21a.pdf)] [[CODE](https://github.com/AC-Amiya233/FedRep)] |
+| Adapt to Adaptation: Learning Personalization for Cross-Silo Federated Learning | APPLE | IJCAI | 2021 | [[PDF](https://www.ijcai.org/proceedings/2022/0301.pdf)] [[CODE](https://github.com/ljaiverson/pFL-APPLE)] |
 | Think locally, act globally: Federated learning with local and global representations | LG-FedAvg | arXiv | 2020 | [[PDF](https://arxiv.org/pdf/2001.01523)] [[CODE](https://github.com/pliang279/LG-FedAvg)] |
 | Federated Learning with Personalization Layers | FedPer | arXiv | 2019 | [[PDF](https://arxiv.org/pdf/1912.00818)] [[CODE](https://github.com/ki-ljl/FedPer)] |
 
@@ -66,6 +68,7 @@ We categorize PFL algorithms into three types:
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
 | Heterogeneous Personalized Federated Learning by Local-Global Updates Mixing via Convergence Rate | LG-Mix | ICLR | 2024 | [[PDF](https://openreview.net/pdf?id=7pWRLDBAtc)] [[CODE](https://github.com/med-air/HeteroPFL)] |
+| FedALA: Adaptive Local Aggregation for Personalized Federated Learning | FedALA | AAAI | 2023 | [[PAGE](https://ojs.aaai.org/index.php/AAAI/article/view/26330)] [[CODE](https://github.com/TsingZ0/PFLlib)] |
 | Adaptive personalized federated learning | APFL | arXiv | 2020 | [[PDF](https://arxiv.org/pdf/2003.13461)] |
 
 ### Global Regularization
@@ -150,7 +153,7 @@ We categorize PFL algorithms into three types:
 
  <!-- update-time-start -->
 
-**Last Update: May 28, 2024 15:35:05**
+**Last Update: May 28, 2024 16:00:05**
 
 <!-- update-time-end -->
 
