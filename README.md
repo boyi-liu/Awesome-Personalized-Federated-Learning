@@ -30,6 +30,7 @@ We categorize PFL algorithms into three types:
 |----------|----|----|----|----|
 | Test-Time Robust Personalization for Federated Learning | FedTHE | ICLR | 2023 | [[PDF](https://arxiv.org/pdf/2205.10920)] [[CODE](https://github.com/LINs-lab/FedTHE)] |
 | Personalized Federated Learning with Feature Alignment and Classifier Collaboration | FedPAC | ICLR | 2023 | [[PDF](https://arxiv.org/pdf/2306.11867)] [[CODE](https://github.com/JianXu95/FedPAC)] |
+| FedCP: Separating Feature Information for Personalized Federated Learning via Conditional Policy | FedCP | KDD | 2023 | [[PAGE](https://dl.acm.org/doi/abs/10.1145/3580305.3599345)] [[CODE](https://github.com/TsingZ0/PFLlib)] |
 | On bridging generic and personalized federated learning for image classification | FedRoD | ICLR | 2022 | [[PDF](https://arxiv.org/pdf/2107.00778)] [[CODE](https://github.com/hongyouc/Fed-RoD)] |
 | Fedbabu: Towards enhanced representation for federated image classification | Fedbabu | ICLR | 2022 | [[PDF](https://arxiv.org/pdf/2106.06042)] [[CODE](https://github.com/jhoon-oh/FedBABU)] |
 | Exploiting shared representations for personalized federated learning | FedRep | ICML | 2021 | [[PDF](https://proceedings.mlr.press/v139/collins21a/collins21a.pdf)] [[CODE](https://github.com/AC-Amiya233/FedRep)] |
@@ -84,6 +85,9 @@ We categorize PFL algorithms into three types:
 | CASA: Clsutered Federated Learning for Asynchronous Clients | CASA | KDD | 2024 | |
 | EchoPFL: Asynchronous Personalized Federated Learning on Mobile Devices with On-Demand Staleness Control | EchoPFL | UbiComp | 2024 | [[PAGE](https://dl.acm.org/doi/abs/10.1145/3643560)] [[PDF](https://arxiv.org/pdf/2401.15960)] |
 | Exploiting Label Skews in Federated Learning with Model Concatenation | FedConcat | AAAI | 2024 | [[PAGE](https://ojs.aaai.org/index.php/AAAI/article/view/29063)] |
+| Adaptive Group Personalization for Federated Mutual Transfer Learning | AdaGrp | ICML | 2024 | |
+| Clustered Federated Learning via Gradient Partitioning | N/A | ICML | 2024 | |
+| FedRC: Tackling Diverse Distribution Shifts Challenge in Federated Learning by Robust Clustering | FedRC | ICML | 2024 | |
 | Clustered Federated Learning in Heterogeneous Environment | ICFL | TNNLS | 2023 | [[PAGE](https://ieeexplore.ieee.org/abstract/document/10106044/)] |
 | Auxo: Efficient Federated Learning via Scalable Client Clustering | Auxo | SoCC | 2023 | [[PAGE](https://dl.acm.org/doi/abs/10.1145/3620678.3624651)] [[PDF](https://arxiv.org/pdf/2210.16656)] |
 | Multi-center federated learning: clients clustering for better personalization | FeSEM | WWW | 2023 | [[PAGE](https://link.springer.com/article/10.1007/s11280-022-01046-x)] |
@@ -128,6 +132,7 @@ We categorize PFL algorithms into three types:
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
 | Flow: Per-instance Personalized Federated Learning | Flow | NIPS | 2023 | [[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/3baf4eeffad860ca9c54aeab632716b4-Paper-Conference.pdf)] [[CODE](https://github.com/Astuary/Flow)] |
+| FedCP: Separating Feature Information for Personalized Federated Learning via Conditional Policy | FedCP | KDD | 2023 | [[PAGE](https://dl.acm.org/doi/abs/10.1145/3580305.3599345)] [[CODE](https://github.com/TsingZ0/PFLlib)] |
 | Personalized Federated Learning through Local Memorization | KNN-Per | ICML | 2022 | [[PDF](https://proceedings.mlr.press/v162/marfoq22a/marfoq22a.pdf)] [[CODE](https://github.com/omarfoq/knn-per)] |
 
 ### PFL in Transformers
@@ -153,7 +158,7 @@ We categorize PFL algorithms into three types:
 
  <!-- update-time-start -->
 
-**Last Update: May 28, 2024 16:00:05**
+**Last Update: May 29, 2024 16:02:54**
 
 <!-- update-time-end -->
 
