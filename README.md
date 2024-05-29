@@ -4,9 +4,9 @@ Paper List for Personalized Federated Learning (PFL)
 
 We categorize PFL algorithms into three types:
 
-+ **Architecture-based**: These alogirhms focus on personalization via model architecture, allowing parameters personalization in partial model.
-+ **Similarity-based**: These algorithms focus on capture the similarities among clients and try to synergize between similar clients.
-+ **Learn-to-personalize-based**: These algorithms focus on finding how to easily personalize locally.
++ **Architecture-based**: These algorithms emphasize personalization through their model architecture, enabling the customization of parameters within specific parts of the model.
++ **Similarity-based**: These algorithms focus on capturing the similarities among clients and aim to facilitate synergy between similar clients.
++ **Learn-to-personalize-based**: These algorithms are designed to identify methods for easily personalizing models locally.
 
 **More items will be added to the repository**. Please feel free to suggest other key resources by opening an issue report, submitting a pull request, or dropping me an email @ (boyliu@buaa.edu.cn). 🥳
 
@@ -25,7 +25,9 @@ We categorize PFL algorithms into three types:
 | Federated Machine Learning: Concept and Applications | N/A | TIST | 2019 | [[PAGE](https://dl.acm.org/doi/abs/10.1145/3298981)] |
 
 ## 1. Architecture
+
 ### Split Learning
+
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
 | Test-Time Robust Personalization for Federated Learning | FedTHE | ICLR | 2023 | [[PDF](https://arxiv.org/pdf/2205.10920)] [[CODE](https://github.com/LINs-lab/FedTHE)] |
@@ -66,6 +68,7 @@ We categorize PFL algorithms into three types:
 | Hermes: an efficient federated learning framework for heterogeneous mobile clients | Hermes | MobiCom | 2021 | [[PAGE](https://dl.acm.org/doi/abs/10.1145/3447993.3483278)] |
 
 ### Mix-up
+
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
 | Heterogeneous Personalized Federated Learning by Local-Global Updates Mixing via Convergence Rate | LG-Mix | ICLR | 2024 | [[PDF](https://openreview.net/pdf?id=7pWRLDBAtc)] [[CODE](https://github.com/med-air/HeteroPFL)] |
