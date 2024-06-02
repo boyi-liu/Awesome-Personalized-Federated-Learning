@@ -25,9 +25,7 @@ We categorize PFL algorithms into three types:
 | Federated Machine Learning: Concept and Applications | N/A | TIST | 2019 | [[PAGE](https://dl.acm.org/doi/abs/10.1145/3298981)] |
 
 ## 1. Architecture
-
 ### Split Learning
-
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
 | Test-Time Robust Personalization for Federated Learning | FedTHE | ICLR | 2023 | [[PDF](https://arxiv.org/pdf/2205.10920)] [[CODE](https://github.com/LINs-lab/FedTHE)] |
@@ -68,7 +66,6 @@ We categorize PFL algorithms into three types:
 | Hermes: an efficient federated learning framework for heterogeneous mobile clients | Hermes | MobiCom | 2021 | [[PAGE](https://dl.acm.org/doi/abs/10.1145/3447993.3483278)] |
 
 ### Mix-up
-
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
 | Heterogeneous Personalized Federated Learning by Local-Global Updates Mixing via Convergence Rate | LG-Mix | ICLR | 2024 | [[PDF](https://openreview.net/pdf?id=7pWRLDBAtc)] [[CODE](https://github.com/med-air/HeteroPFL)] |
@@ -106,7 +103,6 @@ We categorize PFL algorithms into three types:
 | Rethinking Personalized Client Collaboration in Federated Learning | pFedSV | TMC | 2024 | [[PAGE](https://ieeexplore.ieee.org/abstract/document/10517642)] |
 | Personalized Federated Learning with Inferred Collaboration Graphs | pFedGraph | ICML | 2023 | [[PDF](https://proceedings.mlr.press/v202/ye23b/ye23b.pdf)] [[CODE](https://github.com/MediaBrain-SJTU/pFedGraph)] |
 | Personalized Federated Learning with Feature Alignment and Classifier Collaboration | FedPAC | ICLR | 2023 | [[PDF](https://arxiv.org/pdf/2306.11867)] [[CODE](https://github.com/JianXu95/FedPAC)] |
-| Feddisco: Federated learning with discrepancy-aware collaboration | FedDisco | ICML | 2023 | [[PDF](https://proceedings.mlr.press/v202/ye23f/ye23f.pdf)] [[CODE](https://github.com/MediaBrain-SJTU/FedDisco)] |
 | Personalized Cross-Silo Federated Learning on Non-IID Data | FedAMP | AAAI | 2021 | [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16960)] |
 | Variational federated multi-task learning | VIRTUAL | arXiv | 2019 | [[PDF](https://arxiv.org/pdf/1906.06268)] |
 | Federated Multi-Task Learning | MOCHA | NIPS | 2017 | [[PDF](https://proceedings.neurips.cc/paper/2017/file/6211080fa89981f66b1a0c9d55c61d0f-Paper.pdf)] [[CODE](https://github.com/gingsmith/fmtl)] |
@@ -116,6 +112,7 @@ We categorize PFL algorithms into three types:
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
 | Personalized Federated Learning with Parameter Propagation | FEDORA | KDD | 2023 | [[PAGE](https://dl.acm.org/doi/abs/10.1145/3580305.3599464)] |
+| FedL2P: Federated Learning to Personalize | FedL2P | NIPS | 2023 | [[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/2fb57276bfbaf1b832d7bfcba36bb41c-Paper-Conference.pdf)] [[CODE](https://github.com/royson/fedl2p)] |
 | Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach | Per-FedAvg | NIPS | 2020 | [[PDF](https://proceedings.neurips.cc/paper/2020/file/24389bfe4fe2eba8bf9aa9203a44cdad-Paper.pdf)] |
 | Improving federated learning personalization via model agnostic meta learning | MAML | arXiv | 2019 | [[PDF](https://arxiv.org/pdf/1909.12488)] |
 
@@ -161,7 +158,7 @@ We categorize PFL algorithms into three types:
 
  <!-- update-time-start -->
 
-**Last Update: May 29, 2024 16:02:54**
+**Last Update: Jun 02, 2024 14:38:18**
 
 <!-- update-time-end -->
 
