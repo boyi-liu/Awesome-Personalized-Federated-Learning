@@ -2,9 +2,12 @@
 
 Paper List for Personalized Federated Learning (PFL)
 
-We categorize PFL algorithms into three types:
+Personalized Federated Learning (PFL), allowing different parameters among clients, is designed for data heterogeneity (statistics heterogeneity) problem in federated learning.
 
-+ **Architecture-based**: These algorithms emphasize personalization through their model architecture, enabling the customization of parameters within specific parts of the model.
+We categorize PFL algorithms into four types:
+
++ **Parameters-based**: These algorithms emphasize personalization through their model parameters, enabling the customization of parameters within specific parts of the model.
++ **Full-personalization-based**: These algorithms tailor a personalized model for each client. The global information is injected via techniques like mix-up or global regularization.
 + **Similarity-based**: These algorithms focus on capturing the similarities among clients and aim to facilitate synergy between similar clients.
 + **Learn-to-personalize-based**: These algorithms are designed to identify methods for easily personalizing models locally.
 
@@ -24,7 +27,7 @@ We categorize PFL algorithms into three types:
 | Motley: Benchmarking heterogeneity and personalization in federated learning | Motley | arXiv | 2022 | [[PDF](https://arxiv.org/pdf/2206.09262)] [[CODE](https://github.com/google-research/federated/tree/master/personalization_benchmark)] |
 | Federated Machine Learning: Concept and Applications | N/A | TIST | 2019 | [[PAGE](https://dl.acm.org/doi/abs/10.1145/3298981)] |
 
-## 1. Architecture
+## 1. Parameters
 ### Split Learning
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
@@ -65,6 +68,7 @@ We categorize PFL algorithms into three types:
 | FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking | FedMask | SenSys | 2021 | [[PDF](https://dl.acm.org/doi/pdf/10.1145/3485730.3485929)] |
 | Hermes: an efficient federated learning framework for heterogeneous mobile clients | Hermes | MobiCom | 2021 | [[PAGE](https://dl.acm.org/doi/abs/10.1145/3447993.3483278)] |
 
+## 2. Full-Personalization
 ### Mix-up
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
@@ -78,7 +82,7 @@ We categorize PFL algorithms into three types:
 | Ditto: Fair and Robust Federated Learning Through Personalization | Ditto | ICML | 2021 | [[PDF](https://proceedings.mlr.press/v139/li21h/li21h.pdf)] [[CODE](https://github.com/litian96/ditto)] |
 | Personalized federated learning with moreau envelopes | pFedMe | NIPS | 2020 | [[PDF](https://proceedings.neurips.cc/paper/2020/file/f4f1f13c8289ac1b1ee0ff176b56fc60-Paper.pdf)] [[CODE](https://github.com/CharlieDinh/pFedMe)] |
 
-## 2. Similarity
+## 3. Similarity
 ### Clustering
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
@@ -107,7 +111,7 @@ We categorize PFL algorithms into three types:
 | Variational federated multi-task learning | VIRTUAL | arXiv | 2019 | [[PDF](https://arxiv.org/pdf/1906.06268)] |
 | Federated Multi-Task Learning | MOCHA | NIPS | 2017 | [[PDF](https://proceedings.neurips.cc/paper/2017/file/6211080fa89981f66b1a0c9d55c61d0f-Paper.pdf)] [[CODE](https://github.com/gingsmith/fmtl)] |
 
-## 3. Learn to Personalize
+## 4. Learn to Personalize
 ### Meta Learning
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
@@ -127,7 +131,7 @@ We categorize PFL algorithms into three types:
 |----------|----|----|----|----|
 | Adaptive Test-Time Personalization for Federated Learning | ATP | NIPS | 2023 | [[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/f555b62384279b98732204cb1a670a23-Paper-Conference.pdf)] [[CODE](https://github.com/baowenxuan/ATP)] |
 
-## 4. Other
+## 5. Other
 ### Per-instance PFL
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
@@ -158,7 +162,7 @@ We categorize PFL algorithms into three types:
 
  <!-- update-time-start -->
 
-**Last Update: Jun 02, 2024 14:38:18**
+**Last Update: Jun 03, 2024 19:52:54**
 
 <!-- update-time-end -->
 
