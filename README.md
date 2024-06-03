@@ -4,16 +4,32 @@ Paper List for Personalized Federated Learning (PFL)
 
 Personalized Federated Learning (PFL), allowing different parameters among clients, is designed for data heterogeneity (statistics heterogeneity) problem in federated learning.
 
-We categorize PFL algorithms into four types:
+
+
+We categorized PFL algorithms into four types and collected corresponding papers
 
 + **Parameters-based**: These algorithms emphasize personalization through their model parameters, enabling the customization of parameters within specific parts of the model.
 + **Full-personalization-based**: These algorithms tailor a personalized model for each client. The global information is injected via techniques like mix-up or global regularization.
 + **Similarity-based**: These algorithms focus on capturing the similarities among clients and aim to facilitate synergy between similar clients.
 + **Learn-to-personalize-based**: These algorithms are designed to identify methods for easily personalizing models locally.
 
-**More items will be added to the repository**. Please feel free to suggest other key resources by opening an issue report, submitting a pull request, or dropping me an email @ (boyliu@buaa.edu.cn). 🥳
+A detailed mindmap of paper collected is illustrated as follow
 
 ![](img/fl.png)
+
+
+
+We also collect PFL papers like
+
++ Per-instance PFL
++ PFL with Transformers
++ Out-of-distribution (OOD) in PFL
+
+
+
+**More items will be added to the repository**. Please feel free to suggest other key resources by opening an issue report, submitting a pull request, or dropping me an email @ (boyliu@buaa.edu.cn). 🥳
+
+
 
 
 
