@@ -13,6 +13,8 @@ We categorize PFL algorithms into four types:
 
 **More items will be added to the repository**. Please feel free to suggest other key resources by opening an issue report, submitting a pull request, or dropping me an email @ (boyliu@buaa.edu.cn). 🥳
 
+![](img/fl.png)
+
 
 
 <!-- main-start -->
