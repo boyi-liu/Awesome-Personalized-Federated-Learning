@@ -49,6 +49,7 @@ We also collect PFL papers like
 ### Split Learning
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
+| Improving Global Generalization and Local Personalization for Federated Learning | pFedCSPC | TNNLS | 2024 | [[PAGE](https://ieeexplore.ieee.org/abstract/document/10605121)] |
 | Test-Time Robust Personalization for Federated Learning | FedTHE | ICLR | 2023 | [[PDF](https://arxiv.org/pdf/2205.10920)] [[CODE](https://github.com/LINs-lab/FedTHE)] |
 | Personalized Federated Learning with Feature Alignment and Classifier Collaboration | FedPAC | ICLR | 2023 | [[PDF](https://arxiv.org/pdf/2306.11867)] [[CODE](https://github.com/JianXu95/FedPAC)] |
 | FedCP: Separating Feature Information for Personalized Federated Learning via Conditional Policy | FedCP | KDD | 2023 | [[PAGE](https://dl.acm.org/doi/abs/10.1145/3580305.3599345)] [[CODE](https://github.com/TsingZ0/PFLlib)] |
@@ -164,10 +165,11 @@ We also collect PFL papers like
 | FedTP: Federated Learning by Transformer Personalization | FedTP | TNNLS | 2023 | [[PAGE](https://ieeexplore.ieee.org/abstract/document/10130784)] [[PDF](https://arxiv.org/pdf/2211.01572)] |
 | Efficient Model Personalization in Federated Learning via Client-Specific Prompt Generation | pFedPG | ICCV | 2023 | [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Efficient_Model_Personalization_in_Federated_Learning_via_Client-Specific_Prompt_Generation_ICCV_2023_paper.pdf)] |
 
-### Out-of-distribution in PFL
+### Out-of-distribution/Generalization in PFL
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
 | Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients | FedSDR | ICLR | 2024 | [[PDF](https://openreview.net/pdf?id=8FHWkY0SwF)] [[CODE](https://github.com/Tangx-yy/FedSDR)] |
+| Improving Global Generalization and Local Personalization for Federated Learning | pFedCSPC | TNNLS | 2024 | [[PAGE](https://ieeexplore.ieee.org/abstract/document/10605121)] |
 | Test-Time Robust Personalization for Federated Learning | FedTHE | ICLR | 2023 | [[PDF](https://arxiv.org/pdf/2205.10920)] [[CODE](https://github.com/LINs-lab/FedTHE)] |
 | DM-PFL: Hitchhiking Generic Federated Learning for Efficient Shift-Robust Personalization | DM-PFL | KDD | 2023 | [[PAGE](https://dl.acm.org/doi/abs/10.1145/3580305.3599311)] |
 | On bridging generic and personalized federated learning for image classification | FedRoD | ICLR | 2022 | [[PDF](https://arxiv.org/pdf/2107.00778)] [[CODE](https://github.com/hongyouc/Fed-RoD)] |
@@ -180,7 +182,7 @@ We also collect PFL papers like
 
  <!-- update-time-start -->
 
-**Last Update: Jun 03, 2024 19:52:54**
+**Last Update: Jul 23, 2024 19:28:17**
 
 <!-- update-time-end -->
 
