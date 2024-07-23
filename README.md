@@ -142,6 +142,7 @@ We also collect PFL papers like
 ### Hyper-network
 | Title | Abbreviation | Venue | Year | Materials |
 |----------|----|----|----|----|
+| FedMBridge: Bridgeable Multimodal Federated Learning | FedMBridge | ICML | 2024 | [[PDF](https://openreview.net/pdf?id=jrHUbftLd6)] |
 | PeFLL: Personalized Federated Learning by Learning to Learn | PeFLL | ICLR | 2023 | [[PDF](https://openreview.net/pdf?id=MrYiwlDRQO)] |
 | Personalized federated learning using hypernetworks | pFedHN | ICML | 2021 | [[PDF](https://proceedings.mlr.press/v139/shamsian21a/shamsian21a.pdf)] [[CODE](https://github.com/AvivSham/pFedHN)] |
 
@@ -182,7 +183,7 @@ We also collect PFL papers like
 
  <!-- update-time-start -->
 
-**Last Update: Jul 23, 2024 19:28:17**
+**Last Update: Jul 23, 2024 22:37:28**
 
 <!-- update-time-end -->
 
